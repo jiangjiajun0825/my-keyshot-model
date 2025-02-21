@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 100,
+    "horizontalStartingIndex": 50,
+    "horizontalWrap": true,
+    "name": "gufengji.6",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
